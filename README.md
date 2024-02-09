@@ -27,3 +27,5 @@ Implements directional movement commands (left, down, right, up) using PyAutoGUI
 ## Note on Usage
 
 This tool is specifically designed for Linux and is shaped to navigate a particular website. The functionality and classes are built with the flexibility to be adapted for other uses. However, it is crucial to understand that the tool operates based on screen resolution. Changes in resolution necessitate the recapture of target screenshots for accurate operation. As a prototype, this tool demonstrates a potential approach to automated web navigation, with room for further development and customization.
+
+(This Text was written by ChatGPT based on my voice notes)
