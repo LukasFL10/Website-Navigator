@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a specialized Navigator Tool developed for automating web browsing activities on a specific website. The tool is not intended for public use or contribution, as it has been anonymized and customized for a particular use case. It is designed primarily to demonstrate the capabilities of automated web navigation through code and is tailored to operate on Linux systems. The tool is a prototype, showcasing a foundation that could be expanded into a more comprehensive application. Users should note that this tool's effectiveness is closely tied to screen resolution, requiring adjustments and new screenshots for different environments.
+This repository contains a specialized Navigator Tool developed for automating web browsing activities on a specific website. The tool is not intended for public use or contribution, as it has been anonymized and customized for a particular use case. It is designed primarily to demonstrate the capabilities of automated web navigation through code and is tailored to operate on Linux systems. Its main objective was not to provide speed or be efficient, but to mimick human browser behaviour as closely as possible. The tool is a prototype, showcasing a foundation that could be expanded into a more comprehensive application. Users should note that this tool's effectiveness is closely tied to screen resolution, requiring adjustments and new screenshots for different environments.
 
 ## Features
 
